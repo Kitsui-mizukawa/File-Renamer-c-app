@@ -29,3 +29,7 @@ Aplikasi ini dibuat untuk mempermudah proses penamaan ulang file dalam jumlah be
 # Status Proyek
 
 Repositori masih dalam tahap awal pengembangan (4 commits) dan akan terus diperbarui dengan fitur tambahan serta peningkatan UI.
+
+# Lisensi
+
+Dirilis di bawah MIT License. Bebas digunakan, dimodifikasi, dan dikembangkan lebih lanjut.
